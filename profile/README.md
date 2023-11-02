@@ -20,7 +20,7 @@ Here are some articles about our core features:
 
 - [What is Development Environment Management?](https://www.daytona.io/dotfiles/clarifying-cloud-development)
 - [Dev Containers](https://www.daytona.io/dotfiles/guide-create-devcontainer-json-file)
-- [High-density workspaces for efficient VM provisioning](https://www.daytona.io/dotfiles/enterprise-grade-alternative-to-github-codespaces)
+- [Secure Alternative to GitHub Codespaces](https://www.daytona.io/dotfiles/daytona-a-secure-alternative-to-github-codespaces)
 - [Standardized Development Environments](https://www.daytona.io/dotfiles/embracing-standardized-development-environments)
 
 Read more on our blog the [Dotfiles Insider](https://www.daytona.io/dotfiles/).
