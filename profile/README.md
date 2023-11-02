@@ -1,6 +1,6 @@
 # Welcome to Daytona
 
-![Daytona Header](readme_img.png)
+![Daytona Header](https://github.com/daytonaio/.github/blob/main/profile/readme_img.png)
 
 Daytona is the enterprise-grade alternative to GitHub Codespaces. It provides a secure, scalable, and standardized Development Environment Management platform. Daytona supports Dev Containers and integrates seamlessly with any IDE or Git provider.
 
