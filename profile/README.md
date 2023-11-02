@@ -21,4 +21,4 @@ Here are some of our core features and projects:
 - [What is Development Environment Management?](https://www.daytona.io/dotfiles/clarifying-cloud-development)
 - [Dev Containers](https://daytona.io/)
 - [High-density workspaces for efficient VM provisioning](https://www.daytona.io/dotfiles/enterprise-grade-alternative-to-github-codespaces)
-- [Standardized Development Environments](hhttps://www.daytona.io/dotfiles/embracing-standardized-development-environments)
+- [Standardized Development Environments](https://www.daytona.io/dotfiles/embracing-standardized-development-environments)
