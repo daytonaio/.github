@@ -11,7 +11,7 @@ The unique value of Daytona is its self-hosting capability on your own infrastru
 ```bash
 git clone https://github.com/daytonaio/installer
 cd installer
-./setup.sh --install
+./setup.sh
 ```
 
 ## Highlights
