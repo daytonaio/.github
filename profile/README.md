@@ -14,6 +14,14 @@ cd installer
 ./setup.sh
 ```
 
+[Get the CLI for your local machine.](https://download.daytona.io/)
+
+Or on macOS use Homebrew:
+
+```bash
+brew install daytonaio/daytona/daytona
+```
+
 ## Highlights
 
 Here are some articles about our core features:
