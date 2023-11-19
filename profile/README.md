@@ -14,7 +14,7 @@ cd installer
 ./setup.sh
 ```
 
-Want to kickstart your Daytona experience? It's as simple as [downloading the CLI for your local system](https://download.daytona.io/). If you're on macOS the just do:
+To integrate Daytona into your workflow, the CLI is available for [download for your local environment](https://download.daytona.io/). macOS users can expedite the process using Homebrew:
 
 ```bash
 brew install daytonaio/daytona/daytona
