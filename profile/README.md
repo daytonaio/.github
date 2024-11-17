@@ -2,8 +2,9 @@
 
 ![Daytona Header](https://github.com/daytonaio/.github/blob/main/profile/readme_img.png)
 
-Daytona is an enterprise-grade Development Environment Management platform that provides a secure, scalable, and standardized alternative to GitHub Codespaces under your control. Available in open source and enterprise editions, Daytona supports Dev Containers and integrates with any IDE or Git provider, with the enterprise version offering enhanced security and scalability features for large-scale organizations.
+An open-source Development Environment Management platform that enhances developer productivity and experience. By automating the entire setup process, Daytona creates unified and standardized development environments, reducing the burden on your DevOps team by handling the orchestration of these environments.
 
+Daytona's self-hosting capabilities provide robust security, giving organizations control over their data and enabling them to effectively meet compliance requirements. Additionally, Daytona's vendor neutrality enables organizations to have greater control over their infrastructure, reducing risk and optimizing their technology investments.
 ## Recent Highlights
 
 Here are some articles about Daytona:
