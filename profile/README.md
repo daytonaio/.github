@@ -1,24 +1,29 @@
 # Welcome to Daytona
-
 ![Daytona Header](https://github.com/daytonaio/.github/blob/main/profile/readme_img.png)
 
-Daytona is a **powerful open-source tool that makes development environment management** effortless. With just one command, developers can instantly spin up standardized environments that work seamlessly with popular IDEs, including VS Code, Cursors, Jupyter, and the full JetBrains suite. Our free offering includes comprehensive **SDK**, giving developers and AI agents programmatic control over environment creation, Git operations, and workspace configurations.
+Daytona is a **secure, scalable runtime for AI-generated code execution and agent workflows**. Our open-source platform provides lightning-fast infrastructure (200ms startup) with complete isolation, giving developers and AI systems a safe sandbox for running generated code without risk. The comprehensive **Daytona SDK** offers programmatic control over workspace creation, file operations, and process execution—essential components for building robust AI agents with dynamic lifecycles.
 
-For organizations struggling with complex VDI setups, **Daytona Enterprise** offers a modern, fast, and scalable developer-first alternative. Our self-hosted solution provides enterprise-grade security with role-based access control, compliance tools, and flexible deployment options - all while maintaining complete data sovereignty. Unlike traditional VDI or CDE solutions, Daytona Enterprise integrates with developers' favorite tools, making it the perfect choice for both Fortune 500 companies and growing startups seeking to modernize their development infrastructure.
+For organizations building AI applications, **Daytona Enterprise** delivers production-ready infrastructure with enterprise-grade security, compliance tools, and flexible deployment options. Our stateful environment snapshots enable persistent agent operations across sessions, making Daytona the ideal foundation for Fortune 500 companies and startups implementing AI agent architectures.
 
 ## Here are some articles about Daytona:
-
-- [Daytona Goes Open Source](https://www.daytona.io/dotfiles/daytona-goes-open-source)
+- [AI Agents Need a Runtime With a Dynamic Lifecycle](https://www.daytona.io/dotfiles/ai-agents-need-a-runtime-with-a-dynamic-lifecycle-here-s-why)
+- [Securing AI Code: Building Safe Sandboxes with Daytona SDK](https://www.daytona.io/dotfiles/securing-ai-code-building-safe-sandboxes-with-daytona-sdk)
+- [Run AI-Generated Code Safely with Daytona Sandboxes](https://www.daytona.io/dotfiles/run-ai-generated-code-safely-with-daytona-sandboxes-part-1)
 - [Building Better AI Agents with Daytona SDK](https://www.daytona.io/dotfiles/building-better-ai-agents-the-ai-enablement-stack)
 - [Sandboxing AI Development](https://www.daytona.io/dotfiles/sandboxing-ai-development-with-agent-agnostic-infrastructure)
-- [Why Cloud Dev Environments Matter](https://www.daytona.io/dotfiles/why-cloud-dev-environments-matter)
-- [The Code Liberation for Frictionless Dev Environments](https://www.daytona.io/dotfiles/the-code-liberation-for-frictionless-dev-environments)
 
 Read more on our blog, the [Dotfiles Insider](https://www.daytona.io/dotfiles/), or explore our open source [Documentation](https://www.daytona.io/docs/).
 
-Ready to transform your organization's development workflow? [Schedule an Enterprise Demo](https://daytona.zapier.app/)
+Ready to transform your AI agent infrastructure? [Schedule an Enterprise Demo](https://daytona.zapier.app/)
 
-Jump right in with Daytona Open Source:
-```bash
-curl -sfL https://download.daytona.io/daytona/install.sh | sudo bash && daytona server -y && daytona
+Get started with Daytona in seconds:
+```python
+from daytona_sdk import Daytona
+
+daytona = Daytona()
+workspace = daytona.create()
+
+# Run AI-generated code securely inside isolated sandbox
+response = workspace.process.code_run('print("Hello from AI sandbox!")')
+print(response.result)
 ```
