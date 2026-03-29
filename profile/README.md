@@ -18,7 +18,7 @@ Ready to transform your AI agent infrastructure? [Schedule an Enterprise Demo](h
 
 Get started with Daytona in seconds:
 ```python
-from daytona_sdk import Daytona
+from daytona import Daytona
 
 daytona = Daytona()
 workspace = daytona.create()
